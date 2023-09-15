@@ -1,0 +1,22 @@
+/* Footer.css */
+
+/* Cambio de color de fondo del footer */
+footer {
+    background-color: #000000; /* Cambia el color de fondo aquí */
+  }
+  
+  /* Cambio de color del texto en el footer */
+  footer {
+    color: rgb(242, 216, 23); /* Cambia el color del texto aquí */
+  }
+  
+  /* Cambio de color de fondo de los enlaces de redes sociales */
+  footer .card-img a {
+    background-color: #555; /* Cambia el color de fondo de los enlaces aquí */
+  }
+  
+  /* Cambio de color del icono de las redes sociales */
+  footer .card-img a i {
+    color: #fffb08; /* Cambia el color del icono aquí */
+  }
+  

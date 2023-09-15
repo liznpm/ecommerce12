@@ -1,0 +1,24 @@
+.center-button {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    margin-top: 20px; /* Ajusta el margen superior según sea necesario */
+  }
+  
+  /* Estilos para el botón amarillo */
+  .yellow-button {
+    background-color:  #e7c800;
+    color: rgb(255, 255, 255);
+    padding: 10px 350px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Comida.css */
+
+.card-title2 {
+  color: #f7c319;
+  font-size: 24px;
+}
+
+/* Otros estilos que quieras aplicar */

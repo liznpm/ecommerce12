@@ -1,0 +1,25 @@
+/* CustomNavbar.css */
+
+/* Cambiar el color de fondo y el color del texto */
+.custom-navbar {
+  background-color: #ffffffb9;
+  color: white;
+}
+
+/* Estilos para el formulario de búsqueda */
+.custom-search-form {
+  min-width: 300px;
+  max-width: 500px;
+}
+
+/* Estilos para los íconos en los botones */
+.custom-icon {
+  font-size: 18px;
+}
+
+/* Otros estilos que desees añadir */
+.navbar-nav .nav-link {
+  font-family: Arial, sans-serif;
+  font-size: 16px; /* Cambia el tamaño de fuente según tus preferencias */
+  color: rgb(241, 225, 47);
+}
